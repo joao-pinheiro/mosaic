@@ -36,8 +36,8 @@ Available options:
 Slicing the image teste.jpg into a mosaic of 10 x 15 tiles, and write the result files into the existing directory result
 ```bash
 php slice.php -f=teste.jpg -w=10 -h=15 -o=result
-`
-``
+```
+
 # Map
 Generates stitching maps for arbitrary image file listings. This can be used to create evenly distributed contact sheets.
 
