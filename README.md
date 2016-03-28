@@ -15,6 +15,7 @@ Prerequisite packages are:
 ### Installation
 ```bash
 git clone git://github.com/joao-pinheiro/mosaic.git
+cd mosaic
 composer update
 ```
 
