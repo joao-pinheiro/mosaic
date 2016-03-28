@@ -1,0 +1,20 @@
+{
+  "name": "mosaic",
+  "version": "0.9",
+  "description": "Simple image mosaic tools",
+  "license": "BSD",
+  "type": "project",
+  "require": {
+    "php": ">=5.5",
+    "ext-mysql": "*",
+    "ext-gd": "*",
+    "ext-imagick": "*",
+    "imagine/imagine": "*",
+    "corneltek/getoptionkit": "~2"
+  },
+  "autoload": {
+    "classmap": [
+      "mosaic/"
+    ]
+  }
+}
